@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>TechLink Academy Releases Nexus Repository</name>
-	      <url>http://3.142.209.18:8081/repository/linkpay-release/</url>
+	      <url>http://100.26.55.210:8081/repository/jwa_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>TechLink Academy Snapshot Nexus Repository </name>
-	      <url>http://3.142.209.18:8081/repository/linkpay-snapshot/</url>
+	      <url>http://100.26.55.210:8081/repository/jwa_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
