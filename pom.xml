@@ -22,8 +22,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://54.82.110.5:9000/</sonar.host.url> 
-		<sonar.login>sqa_2207c6fcaccbcaa2ffd0ffe838f02cc8a38ff71f</sonar.login>
+		<sonar.host.url>http://98.80.6.156:9000/</sonar.host.url> 
+		<sonar.token>sqa_3fef74cd14f1e598c5b175f1c835b6ac52fd6b2d</sonar.token>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>TechLink Academy Releases Nexus Repository</name>
-	      <url>http://100.26.55.210:8081/repository/jwa_release/</url>
+	      <url>http://52.90.234.46:8081/repository/Jwa-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>TechLink Academy Snapshot Nexus Repository </name>
-	      <url>http://100.26.55.210:8081/repository/jwa_snapshot/</url>
+	      <url>http://52.90.234.46:8081/repository/Jwa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
