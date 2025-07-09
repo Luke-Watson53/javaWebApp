@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>TechLink Academy Releases Nexus Repository</name>
-	      <url>http://52.90.234.46:8081/repository/Jwa-release/</url>
+	      <url>http://18.207.211.0:8081/repository/jwa-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>TechLink Academy Snapshot Nexus Repository </name>
-	      <url>http://52.90.234.46:8081/repository/Jwa-snapshot/</url>
+	      <url>http://18.207.211.0:8081/repository/jwa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
